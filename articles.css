@@ -1,2 +1,17 @@
-.title {border right: 
+.body { background-color: black;
+}
+
+.p {font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.2em;
+	line-height: 
+}
+
+.h1{font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 2em
+}
+
+.h1 {border-top-style: 
+	padding:
+	line-height
+
 }
